@@ -1,0 +1,6 @@
+services:
+    StudioMitte\BackendLogin\Listener\ModifyPageLayoutOnLoginProviderSelectionListener:
+        tags:
+            - name: event.listener
+              identifier: 'modfiyPageLayout'
+              event: TYPO3\CMS\Backend\LoginProvider\Event\ModifyPageLayoutOnLoginProviderSelectionEvent

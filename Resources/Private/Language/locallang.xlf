@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+    <file source-language="en" original="messages" product-name="theme" date="2020-10-12T13:28:50+02:00">
+        <body>
+            <trans-unit id="path" resname="path">
+                <source>Path to a directory containing the folders Layout, Templates, Partials.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
