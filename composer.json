@@ -21,7 +21,6 @@
         }
     },
     "replace": {
-        "studiomitte/be-login-template": "self.version",
         "typo3-ter/be-login-template": "self.version"
     },
     "extra": {
