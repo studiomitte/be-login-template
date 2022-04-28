@@ -15,7 +15,9 @@ This extension makes it possible to customize the look and file of the TYPO3 Bac
 3. Adopt the path in the extension settings in the Install Tool.
 4. You are done!
 
-## About
+## Credits
 
-This extension has been brought to you by [StudioMitte](https://studiomitte.com).
+This extension was created by Georg Ringer for [Studio Mitte, Linz](https://studiomitte.com) with ♥.
+
+[Find more TYPO3 extensions we have developed](https://www.studiomitte.com/loesungen/typo3) that provide additional features for TYPO3 sites. 
 
